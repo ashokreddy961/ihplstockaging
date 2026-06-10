@@ -1,0 +1,150 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Stock Aging Report",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "objectType": "DDLS",
+    "objectName": "ZSTOCK_AGING"
+  },
+  "fields": [
+    {
+      "name": "COMPANYCODE",
+      "nature": "general"
+    },
+    {
+      "name": "PLANT",
+      "nature": "general"
+    },
+    {
+      "name": "MATERIAL",
+      "nature": "general"
+    },
+    {
+      "name": "SUPPLIER",
+      "nature": "general"
+    },
+    {
+      "name": "GLACCOUNT",
+      "nature": "general"
+    },
+    {
+      "name": "BASEUNIT",
+      "nature": "general"
+    },
+    {
+      "name": "POSTINGDATE",
+      "nature": "general"
+    },
+    {
+      "name": "STORAGELOCATION",
+      "nature": "general"
+    },
+    {
+      "name": "BATCH",
+      "nature": "general"
+    },
+    {
+      "name": "DOCUMENTDATE",
+      "nature": "general"
+    },
+    {
+      "name": "DOCUMENTCURRENCY",
+      "nature": "general"
+    },
+    {
+      "name": "PURCHASEORDER",
+      "nature": "general"
+    },
+    {
+      "name": "MATERIALDOCUMENT",
+      "nature": "general"
+    },
+    {
+      "name": "GOODSMOVEMENTTYPE",
+      "nature": "general"
+    },
+    {
+      "name": "SUPPLIERNAME",
+      "nature": "general"
+    },
+    {
+      "name": "PRODUCTNAME",
+      "nature": "general"
+    },
+    {
+      "name": "MATERIALBASEUNIT",
+      "nature": "general"
+    },
+    {
+      "name": "PURCHASEORDERITEMTEXT",
+      "nature": "general"
+    },
+    {
+      "name": "TOTALAGINGDAYS",
+      "nature": "general"
+    },
+    {
+      "name": "STOCKQUANTITY_0_30DAYS",
+      "nature": "general"
+    },
+    {
+      "name": "STOCKVALUE_0_30DAYS",
+      "nature": "general"
+    },
+    {
+      "name": "STOCKQUANTITY_30_60DAYS",
+      "nature": "general"
+    },
+    {
+      "name": "STOCKVALUE_30_60DAYS",
+      "nature": "general"
+    },
+    {
+      "name": "STOCKQUANTITY_60_90DAYS",
+      "nature": "general"
+    },
+    {
+      "name": "STOCKVALUE_60_90DAYS0",
+      "nature": "general"
+    },
+    {
+      "name": "STOCKQUANTITY_90_180DAYS",
+      "nature": "general"
+    },
+    {
+      "name": "STOCKVALUE_90_180DAYS",
+      "nature": "general"
+    },
+    {
+      "name": "STOCKQUANTITY_180_365DAYS",
+      "nature": "general"
+    },
+    {
+      "name": "STOCKVALUE_180_365DAYS",
+      "nature": "general"
+    },
+    {
+      "name": "STOCKQUANTITY_OVER365DAYS",
+      "nature": "general"
+    },
+    {
+      "name": "STOCKVALUE_OVER365DAYS",
+      "nature": "general"
+    },
+    {
+      "name": "STOCKVALUE",
+      "nature": "general"
+    },
+    {
+      "name": "STOCKQUANTITY",
+      "nature": "general"
+    },
+    {
+      "name": "PLANTNAME",
+      "nature": "general"
+    }
+  ]
+}

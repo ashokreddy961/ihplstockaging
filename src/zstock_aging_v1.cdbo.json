@@ -1,0 +1,42 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Stock Ageing with Group By scenario",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "objectType": "DDLS",
+    "objectName": "ZSTOCK_AGING_V1"
+  },
+  "fields": [
+    {
+      "name": "MATERIAL",
+      "nature": "general"
+    },
+    {
+      "name": "STOCKQUANTITY",
+      "nature": "general"
+    },
+    {
+      "name": "PLANT",
+      "nature": "general"
+    },
+    {
+      "name": "STOCKVALUE",
+      "nature": "general"
+    },
+    {
+      "name": "STORAGELOCATION",
+      "nature": "general"
+    },
+    {
+      "name": "BATCH",
+      "nature": "general"
+    },
+    {
+      "name": "MATERIALDOCUMENT",
+      "nature": "general"
+    }
+  ]
+}

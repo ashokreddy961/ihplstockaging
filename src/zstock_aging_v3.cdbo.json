@@ -1,0 +1,106 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Stock Ageing Data",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "objectType": "DDLS",
+    "objectName": "ZSTOCK_AGING_V3"
+  },
+  "fields": [
+    {
+      "name": "MATERIAL",
+      "nature": "general"
+    },
+    {
+      "name": "MATERIALDOCUMENT",
+      "nature": "general"
+    },
+    {
+      "name": "PLANT",
+      "nature": "general"
+    },
+    {
+      "name": "STORAGELOCATION",
+      "nature": "general"
+    },
+    {
+      "name": "BATCH",
+      "nature": "general"
+    },
+    {
+      "name": "STOCKQUANTITY",
+      "nature": "general"
+    },
+    {
+      "name": "STOCKVALUE",
+      "nature": "general"
+    },
+    {
+      "name": "TOTALAGINGDAYS",
+      "nature": "general"
+    },
+    {
+      "name": "STOCKQUANTITY_0_30DAYS",
+      "nature": "general"
+    },
+    {
+      "name": "STOCKVALUE_0_30DAYS",
+      "nature": "general"
+    },
+    {
+      "name": "STOCKQUANTITY_OVER365DAYS",
+      "nature": "general"
+    },
+    {
+      "name": "STOCKVALUE_OVER365DAYS",
+      "nature": "general"
+    },
+    {
+      "name": "DOCUMENTDATE",
+      "nature": "general"
+    },
+    {
+      "name": "POSTINGDATE",
+      "nature": "general"
+    },
+    {
+      "name": "STOCKQUANTITY_31_60DAYS",
+      "nature": "general"
+    },
+    {
+      "name": "STOCKVALUE_31_60DAYS",
+      "nature": "general"
+    },
+    {
+      "name": "STOCKQUANTITY_61_90DAYS",
+      "nature": "general"
+    },
+    {
+      "name": "STOCKVALUE_61_90DAYS",
+      "nature": "general"
+    },
+    {
+      "name": "STOCKQUANTITY_91_180DAYS",
+      "nature": "general"
+    },
+    {
+      "name": "STOCKVALUE_91_180DAYS",
+      "nature": "general"
+    },
+    {
+      "name": "STOCKQUANTITY_181_365DAYS",
+      "nature": "general"
+    },
+    {
+      "name": "STOCKVALUE_181_365DAYS",
+      "nature": "general"
+    },
+    {
+      "name": "GOODSMOVEMENTTYPE",
+      "nature": "general"
+    }
+  ]
+}

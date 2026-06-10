@@ -1,0 +1,66 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Stock Ageing Data",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "objectType": "DDLS",
+    "objectName": "ZSTOCK_AGING_V2"
+  },
+  "fields": [
+    {
+      "name": "MATERIAL",
+      "nature": "general"
+    },
+    {
+      "name": "MATERIALDOCUMENT",
+      "nature": "general"
+    },
+    {
+      "name": "PLANT",
+      "nature": "general"
+    },
+    {
+      "name": "STORAGELOCATION",
+      "nature": "general"
+    },
+    {
+      "name": "BATCH",
+      "nature": "general"
+    },
+    {
+      "name": "DOCUMENTDATE",
+      "nature": "general"
+    },
+    {
+      "name": "POSTINGDATE",
+      "nature": "general"
+    },
+    {
+      "name": "STOCKQUANTITY",
+      "nature": "general"
+    },
+    {
+      "name": "STOCKVALUE",
+      "nature": "general"
+    },
+    {
+      "name": "TOTALAGINGDAYS",
+      "nature": "general"
+    },
+    {
+      "name": "MATERIALDOCUMENTITEM",
+      "nature": "general"
+    },
+    {
+      "name": "MATERIALDOCUMENTYEAR",
+      "nature": "general"
+    },
+    {
+      "name": "GOODSMOVEMENTTYPE",
+      "nature": "general"
+    }
+  ]
+}
